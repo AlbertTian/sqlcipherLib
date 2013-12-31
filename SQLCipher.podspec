@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'SQLCipher'
-  s.version  = '2.1.1'
+  s.version  = '3.0.1'
   s.license  = 'BSD'
   s.summary  = 'Full Database Encryption for SQLite.'
   s.description  = 'SQLCipher is an open source extension to SQLite that provides transparent 256-bit AES encryption of database files.'
